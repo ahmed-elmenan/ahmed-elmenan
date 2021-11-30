@@ -6,4 +6,4 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elmenan&count_private=true&show_icons=true&theme=radical" alt="Anas's Top Langs" />
  
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=ahmed-elmenan)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=ahel-men)](https://github.com/mohouyizme/1337-readme)
